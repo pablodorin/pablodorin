@@ -35,4 +35,5 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 
 ---
 
-> *"I don’t just write code — I craft solutions, build bridges between systems and people, and try to leave things better than I found them."*
+"Code is like humor. When you have to explain it, it’s bad." — Cory House
+"The best way to get a project done faster is to start sooner." — Jim Highsmith
