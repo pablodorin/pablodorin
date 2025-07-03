@@ -1,6 +1,6 @@
 # 👨‍💻 Pablo Dorin
 
-> *“Clean code. Sharp design. Zero drama.”*
+> "First, solve the problem. Then, write the code." — John Johnson
 
 I’m a Fullstack Software Engineer with 15+ years of experience, a passion for software architecture, and an eye for elegant, scalable solutions. From legacy systems to bleeding-edge stacks, I’ve walked the whole path — and still love the journey.
 
