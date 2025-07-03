@@ -35,5 +35,5 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 
 ---
 
->Code is like humor. When you have to explain it, it’s bad." — Cory House
+>"Code is like humor. When you have to explain it, it’s bad." — Cory House
 >"The best way to get a project done faster is to start sooner." — Jim Highsmith
