@@ -1,6 +1,6 @@
 # 👨‍💻 Pablo Dorin
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to get a project done faster is to start sooner." — Jim Highsmith
 
 I’m a Fullstack Software Engineer with 15+ years of experience, a passion for software architecture, and an eye for elegant, scalable solutions. From legacy systems to bleeding-edge stacks, I’ve walked the whole path — and still love the journey.
 
@@ -37,4 +37,4 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 
 >"Code is like humor. When you have to explain it, it’s bad." — Cory House
 >
->"The best way to get a project done faster is to start sooner." — Jim Highsmith
+> "First, solve the problem. Then, write the code." — John Johnson
