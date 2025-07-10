@@ -36,25 +36,14 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 
 ---
 
-  開発訓
   DEV CODE
 
-職業的な卓越性を育むこと。
-Nurture professional excellence.
+- Nurture professional excellence.
+- Be loyal, honest, and take responsibility in your work.
+- Strive for technical perfection.
+- Respect all colleagues, clients and users.
+- Work for the common good.
 
-忠実で、正直かつ仕事に責任を持つこと。
-Be loyal, honest, and take responsibility in your work.
-
-技術的な完璧を目指すこと。
-Strive for technical perfection.
-
-すべての同僚、顧客、ユーザーを尊重すること。
-Respect all colleagues, clients and users.
-
-共通の善のために働くこと。
-Work for the common good.
-
-  禅技
   Z3N1T
 
 ---
