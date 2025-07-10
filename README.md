@@ -39,7 +39,7 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
   ⛩️ DEV CODE
 
 - 🏅 Nurture professional excellence.
-- 🧭 Be loyal, honest, and take responsibility in your work.
+- 🧭 Be loyal, honest and take responsibility in your work.
 - 🎯 Strive for technical perfection.
 - 🤝 Respect all colleagues, clients and users.
 - ⚖️ Work for the common good.
