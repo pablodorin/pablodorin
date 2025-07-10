@@ -36,15 +36,15 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 
 ---
 
-  DEV CODE
+  ⛩️ DEV CODE
 
-- Nurture professional excellence.
-- Be loyal, honest, and take responsibility in your work.
-- Strive for technical perfection.
-- Respect all colleagues, clients and users.
-- Work for the common good.
+- 🏅 Nurture professional excellence.
+- 🧭 Be loyal, honest, and take responsibility in your work.
+- 🎯 Strive for technical perfection.
+- 🤝 Respect all colleagues, clients and users.
+- ⚖️ Work for the common good.
 
-  Z3N1T
+  🧘‍♂️ Z3N1T
 
 ---
 
