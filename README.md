@@ -70,9 +70,6 @@ I value clear communication, technical responsibility, continuous learning, and 
 
 I am comfortable working autonomously, analyzing complex systems, learning unfamiliar business domains, and collaborating with technical and non-technical stakeholders.
 
-> “Code is like humor. When you have to explain it, it’s bad.”
-> — Cory House
-
 > “First, solve the problem. Then, write the code.”
 > — John Johnson
 
