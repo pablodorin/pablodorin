@@ -24,7 +24,7 @@ I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, 
 - 🧠 System Analyst by training, solution architect by passion  
 - 🥋 Karate practitioner — discipline, focus, resilience  
 - 💬 I speak Spanish 🇦🇷, English 🇬🇧, and colloquial French 🇫🇷  
-- 🧭 Based in Madrid, always exploring new ideas  
+- 🧭 Based in Buenos Aires, always exploring new ideas  
 - 🤝 Former IVLP participant, U.S. Department of State  
 
 ---
