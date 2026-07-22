@@ -1,60 +1,94 @@
-# 👨‍💻 Pablo Dorin (Z3N1T)
-S1MPL3. T3CH. Z3N.
+# Pablo L. Dorin
 
-> "The best way to get a project done faster is to start sooner." — Jim Highsmith
+## Senior Java Backend / Full Stack Engineer
 
-I’m a Fullstack Software Engineer with 15+ years of experience, a passion for software architecture, and an eye for elegant, scalable solutions. From legacy systems to bleeding-edge stacks, I’ve walked the whole path — and still love the journey.
+Software engineer with more than 15 years of experience developing, maintaining, integrating, and supporting enterprise applications in large corporate environments.
 
-I craft backend logic with **Java Spring Boot**, shape UI magic with **React**, orchestrate systems in **Node.js**, and store it all with **SQL/MySQL**. I’ve worked on mission-critical apps, mentored teams, and even donated mainframe power to science (yes, that happened).
+My main focus is backend development with Java, Spring Boot, REST APIs, relational databases, and distributed systems. I also have experience in full stack development and have collaborated with multidisciplinary and international teams across different countries and time zones.
 
----
+Much of my technical background was developed hands-on through professional work on real business systems. I later expanded and consolidated this knowledge through formal technical studies at ORT Argentina and continuous professional training.
 
-### 🔧 Technologies I speak
-- **Languages**: Java, JavaScript, PHP, C#, Python  
-- **Frameworks**: Spring Boot, React.js, Node.js, Express  
-- **Databases**: MySQL, PostgreSQL, SQL  
-- **Dev Tools**: Docker, Jenkins, Git, CI/CD  
-- **Architecture**: REST APIs, DDD, MVC, Microservices  
-- **Testing**: JUnit, TDD  
-- **Cloud/Infra**: AWS, Tomcat
+Throughout my career, I have worked on enterprise applications, system integrations, maintenance, incident resolution, technical analysis, and the evolution of business-critical platforms.
 
----
+> “The best way to get a project done faster is to start sooner.”
+> — Jim Highsmith
 
-### 🌍 A bit more about me
-- 🧠 System Analyst by training, solution architect by passion  
-- 🥋 Karate practitioner — discipline, focus, resilience  
-- 💬 I speak Spanish 🇦🇷, English 🇬🇧, and colloquial French 🇫🇷  
-- 🧭 Based in Buenos Aires, always exploring new ideas  
-- 🤝 Former IVLP participant, U.S. Department of State  
+## Core technologies
 
----
+* **Backend:** Java 17, Spring Boot, Hibernate, JPA, REST APIs
+* **Databases:** PostgreSQL, MySQL, SQL
+* **Testing:** JUnit, unit testing, integration testing
+* **Tools:** Git, Maven, Gradle, Docker
+* **Architecture:** Microservices, MVC, enterprise integrations
+* **Frontend:** JavaScript, React, Angular
+* **Infrastructure:** Kubernetes, CI/CD, Tomcat
+* **Additional experience:** Node.js, Python, C#
 
-### 🔗 Let's connect
-- 🌐 [pablodorin.com](https://www.pablodorin.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-dorin/)  
-- 📫 dorin1979@gmail.com  
+## Professional experience
 
----
+I have worked in technology roles for organizations including IBM and Kyndryl, as well as in senior software development positions for other companies and international projects.
 
-  ⛩️ DEV CODE
+My experience includes:
 
-- 🏅 Nurture professional excellence.
-- 🧭 Be loyal, honest and take responsibility in your work.
-- 🎯 Strive for technical perfection.
-- 🤝 Respect all colleagues, clients and users.
-- ⚖️ Work for the common good.
+* Development and maintenance of enterprise applications
+* Backend and full stack development
+* REST API design and integration
+* Database integration and data processing
+* Analysis and resolution of production incidents
+* Maintenance and modernization of existing systems
+* Collaboration with international and distributed teams
+* Work in environments with demanding reliability and delivery requirements
 
-  🧘‍♂️ Z3N1T
+In my most recent international project, I worked with Java 17 and Spring Boot on a REST API platform that integrated data and critical information across financial institutions. The main challenges involved scale, reliability, accuracy, coordination between international teams, and meeting agreed service-level objectives.
 
----
+## Current focus
 
->"Code is like humor. When you have to explain it, it’s bad." — Cory House
->
-> "First, solve the problem. Then, write the code." — John Johnson
+I am currently strengthening and updating my Java ecosystem profile through hands-on practice in:
 
+* Java 17
+* Spring Boot
+* REST API development
+* PostgreSQL and SQL
+* Automated testing
+* Docker
+* Git and Maven
+* Software architecture and clean code
 
+As my current projects become mature and properly documented, I will add them to this profile.
 
+## Developer principles
 
+* Nurture professional excellence.
+* Be loyal, honest, and take responsibility for your work.
+* Strive for technical excellence.
+* Respect all colleagues, clients, and users.
+* Work for the common good.
 
+## How I work
 
+I value clear communication, technical responsibility, continuous learning, and software that solves real business problems reliably.
 
+I am comfortable working autonomously, analyzing complex systems, learning unfamiliar business domains, and collaborating with technical and non-technical stakeholders.
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+> — Cory House
+
+> “First, solve the problem. Then, write the code.”
+> — John Johnson
+
+## Languages
+
+* **Spanish:** Native
+* **English:** Professional working proficiency
+* **French:** Intermediate
+
+## Contact
+
+* **LinkedIn:** linkedin.com/in/pablo-dorin
+* **Website:** pablodorin.com
+* **Email:** [dorin1979@gmail.com](mailto:dorin1979@gmail.com)
+
+## Location
+
+Buenos Aires, Argentina
+Open to remote and international opportunities
