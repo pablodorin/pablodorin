@@ -1,10 +1,10 @@
 # Pablo L. Dorin
 
-## Senior Java Backend / Full Stack Engineer
+## Senior Software Developer | Java Backend & Full-Stack Development
 
-Software engineer with more than 15 years of experience developing, maintaining, integrating, and supporting enterprise applications in large corporate environments.
+Senior software developer with 18+ years of experience developing, maintaining, integrating, and supporting enterprise applications in large corporate environments.
 
-My main focus is backend development with Java, Spring Boot, REST APIs, relational databases, and distributed systems. I also have experience in full stack development and have collaborated with multidisciplinary and international teams across different countries and time zones.
+My main focus is backend development with Java, Spring Boot, REST APIs, relational databases, and distributed systems. I also have experience in full-stack development and have collaborated with multidisciplinary and international teams across different countries and time zones.
 
 Much of my technical background was developed hands-on through professional work on real business systems. I later expanded and consolidated this knowledge through formal technical studies at ORT Argentina and continuous professional training.
 
@@ -26,16 +26,16 @@ Throughout my career, I have worked on enterprise applications, system integrati
 
 ## Professional experience
 
-I have worked in technology roles for organizations including IBM and Kyndryl, as well as in senior software development positions for other companies and international projects.
+I have worked in technology roles for organisations including IBM and Kyndryl, as well as in senior software-development positions for other companies and international projects.
 
 My experience includes:
 
 * Development and maintenance of enterprise applications
-* Backend and full stack development
+* Backend and full-stack development
 * REST API design and integration
 * Database integration and data processing
 * Analysis and resolution of production incidents
-* Maintenance and modernization of existing systems
+* Maintenance and modernisation of existing systems
 * Collaboration with international and distributed teams
 * Work in environments with demanding reliability and delivery requirements
 
@@ -68,7 +68,7 @@ As my current projects become mature and properly documented, I will add them to
 
 I value clear communication, technical responsibility, continuous learning, and software that solves real business problems reliably.
 
-I am comfortable working autonomously, analyzing complex systems, learning unfamiliar business domains, and collaborating with technical and non-technical stakeholders.
+I am comfortable working autonomously, analysing complex systems, learning unfamiliar business domains, and collaborating with technical and non-technical stakeholders.
 
 > “First, solve the problem. Then, write the code.”
 > — John Johnson
@@ -87,5 +87,5 @@ I am comfortable working autonomously, analyzing complex systems, learning unfam
 
 ## Location
 
-Buenos Aires, Argentina
+Buenos Aires, Argentina  
 Open to remote and international opportunities
